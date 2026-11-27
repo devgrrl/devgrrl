@@ -1,9 +1,16 @@
 # Sarah M Walsh
 
-I'm a principal-level full-stack AI platform engineer who builds calm, powerful software for complicated technical work: React and TypeScript interfaces, developer platforms, data-heavy workflows, visualization systems, and production tools that help teams understand what is going on. See the work at [my portfolio](https://devgrrl.github.io/) or browse my [GitHub repositories](https://github.com/devgrrl?tab=repositories).
+**Open to Staff and Principal Software Engineer roles in developer platforms and full-stack systems.**
 
-I founded [Castlehale Press](https://castlehalepress.com/) and built [Stay Practiced](https://staypracticed.com/catalog), where developers can learn through programming courses, projects, and practice exercises.
+I build software for engineers and teams working with complex data. I work across accessible React and TypeScript interfaces, API design, persistence, and testing.
 
-[RiskLab](https://devgrrl.github.io/?view=all) is my public TypeScript UI lab: independently versioned packages for [accessible application components](https://github.com/devgrrl/risklab-ui), [interactive analytical charts](https://github.com/devgrrl/risklab-charts), [deterministic typed styling](https://github.com/devgrrl/risklab-styler), and [original SVG icons](https://github.com/devgrrl/risklab-icons). Each package is browser-tested, validated through installed-tarball consumer fixtures, and designed to make serious technical interfaces faster to build and easier to use.
+[Contact me on LinkedIn](https://www.linkedin.com/in/uiarchitect/) · [Engineering portfolio](https://devgrrl.github.io/)
 
-[Encounter Lab](https://github.com/devgrrl/encounter-lab) ([5-minute review](https://github.com/devgrrl/encounter-lab/blob/main/TLDR_5_Minute_Review.md)) is a server-authoritative full-stack combat system — React/TypeScript, ASP.NET Core, GraphQL, SignalR, and SQLite — where the backend owns all authoritative state (HP, resistance, dice, versioning, persistence) and the client only sends intent and renders committed results. The interesting part isn't the game mechanics; it's keeping that client/server boundary enforceable across the domain, API, persistence, realtime sync, and UI.
+## Selected work
+
+- **[RiskLab UI](https://github.com/devgrrl/risklab-ui)**. Accessible TypeScript components for data-heavy applications. The project includes React and other framework adapters, browser tests, and checks against installed npm packages. [Live demos](https://devgrrl.github.io/ui/) · [RiskLab Charts](https://github.com/devgrrl/risklab-charts)
+- **[SCCE](https://github.com/devgrrl/SCCE)**. A local knowledge workbench with PostgreSQL-backed storage, a browser UI, a CLI, and a VS Code integration. The workbench connects results to their source evidence. [Architecture](https://github.com/devgrrl/SCCE/blob/main/docs/ARCHITECTURE.md)
+- **[Encounter Lab](https://github.com/devgrrl/encounter-lab)**. An ASP.NET Core and React case study in server-owned state. It uses versioned commands, SQLite persistence, and SignalR updates to keep clients in sync. [Five-minute review](https://github.com/devgrrl/encounter-lab/blob/main/TLDR_5_Minute_Review.md)
+- **[DispatchLayer](https://github.com/devgrrl/DispatchLayer)**. A Vue and FastAPI dashboard for renewable power forecasting. It shows uncertainty and forecast inputs, and checks forecasts against held-out historical data. [Project overview](https://github.com/devgrrl/DispatchLayer#readme)
+
+I also built [Stay Practiced](https://staypracticed.com/catalog) for software developers and founded [Castlehale Press](https://castlehalepress.com/).
